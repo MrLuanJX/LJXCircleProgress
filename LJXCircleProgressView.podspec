@@ -15,9 +15,9 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "CircleProgressView"
+  spec.name         = "LJXCircleProgressView"
   spec.version      = "0.1.0"
-  spec.summary      = "A short description of CircleProgressView."
+  spec.summary      = "A short description of LJXCircleProgressView."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-		A short description of CircleProgressView With Animation
+		A short description of LJXCircleProgressView With Animation
                    DESC
 
   spec.homepage     = "https://github.com/MrLuanJX/LJXCircleProgress.git"
